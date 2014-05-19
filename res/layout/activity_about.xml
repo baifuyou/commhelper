@@ -1,0 +1,66 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/aboutTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/aboutTitle"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/aboutText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/aboutText"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/website"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/website"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/websiteText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/websiteText"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/contact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/weibo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autoLink="web"
+        android:text="@string/weibo"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/Email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autoLink="email"
+        android:text="@string/Email"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/space"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.83"
+        android:text="" />
+
+</LinearLayout>

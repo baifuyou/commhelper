@@ -1,0 +1,37 @@
+<resources>
+
+    <string name="app_name">commhleper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">自动应答小助手</string>
+    <string name="title_activity_set_data">添加设置</string>
+    <string name="startTime">起始时间（HH:mm）</string>
+    <string name="endTime">截止时间（HH:mm）</string>
+    <string name="Message">信息内容</string>
+    <string name="enquireInfo">发送信息前询问</string>
+    <string name="ringTimeTextView">响铃时间(S)</string>
+    <string name="answerWay">响应方式</string>
+    <string name="addButton">添加</string>
+    <string name="saveSet">保存</string>
+    <string name="cancel">取消</string>
+    <string name="noAanswer">分钟内不对同一号码连续响应</string>
+    <string name="title_activity_about">关于...</string>
+    <string name="aboutText"> 自动应答小助手(版本v 1.0)由小白不会是小白（也就是我啦）开发。发布之前，我就知道这个软件界面很丑，功能很简单，没有什么技术含量，我也知道您可能不会喜欢它，但是我想说我已经尽力了，毕竟这是本人的处女作。最后，感谢您的下载（尽管这不会给我带来任何收益），也希望您提出您的宝贵意见。我会一直努力的！</string>
+    <string name="aboutTitle">关于...</string>
+    <string name="website">官方网站？</string>
+    <string name="websiteText">开神马玩笑？我根本就不会建网站！！（纯粹装B，忽略它吧）</string>
+    <string name="contact">联系我...</string>
+    <string name="weibo">新浪微博：http://weibo.com/bfystc</string>
+    <string name="Email">E-mail：bfyycdi@gmail.com</string>
+
+    <color name="background">#FFFFF0</color>
+
+    <string name="appsyn">1.自动应答是一款在你繁忙时帮助你应答来电或者短信的软件</string>
+    <string name="howToSetTime">2.你可以设置一个时间段，并且给定短信内容，当在这个时间段内有来电或者短信时，本软件将帮助你自动应答（通过回复短信，来电将被挂断）。</string>
+    <string name="howToSetRingTime">3.某些情况下，您可能并不清楚您在某个时间段内是否方便接听电话。这种情况下，您可以设置一个响铃时间，如果您在响铃时间之后还没有接听电话，软件将帮你应答。</string>
+    <string name="howToSetPauseTime">4.另外一些情况下，一些朋友可能会在短时间内多次拨打您的电话，我猜想您不会希望多次通知对方，所以您可以设置X分钟内不对同一号码多次响应！</string>
+    <string name="howToSetEnquire">5.当然，您可以设置发送短信前是否询问您！</string>
+    <string name="okButton">确定</string>
+    <string name="title_activity_user_log">应答日志</string>
+
+</resources>

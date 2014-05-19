@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/suggestMenu" android:title="建议..."></item>
+    <item android:id="@+id/aboutMenu" android:title="关于..."></item>
+    <item android:id="@+id/help" android:title="帮助"></item>
+    <item android:id="@+id/userlog" android:title="应答日志"></item>
+</menu>
